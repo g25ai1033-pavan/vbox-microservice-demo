@@ -1,3 +1,4 @@
+
 # Node.js Demo App – Hello & Health APIs
 
 This is a simple Node.js demo application designed to run inside a Virtual Machine.  
@@ -24,3 +25,6 @@ It exposes two lightweight HTTP endpoints commonly used for demos, testing, and 
 {
   "message": "Hello from Node.js demo app!"
 }
+```
+Provides demo for creation of Vms and deploy of Microservice across vms
+
