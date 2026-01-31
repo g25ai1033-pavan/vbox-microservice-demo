@@ -1,0 +1,4 @@
+Below commands can be run from the terminal to call the service:
+
+curl http://10.42.0.1:3000/hello
+curl http://10.42.0.1:3000/health
